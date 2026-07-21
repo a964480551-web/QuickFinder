@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pkl
+*.sqlite3
+*.sqlite3.*.tmp
+.workbuddy/
+.trash/
+build/
+dist/
+release/
+outputs/
+*.spec
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
