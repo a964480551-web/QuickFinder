@@ -1,3 +1,5 @@
+<img width="1488" height="1053" alt="image" src="https://github.com/user-attachments/assets/62c55fcb-bdea-455c-baac-91483e8f5ac5" />
+
 # QuickFinder
 
 QuickFinder 是一款面向 Windows 的本地文件搜索工具。它会在用户选择的磁盘或文件夹中建立本地索引，实现即时文件名搜索。
