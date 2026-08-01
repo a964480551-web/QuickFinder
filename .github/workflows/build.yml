@@ -86,7 +86,7 @@ jobs:
 
 
       - name: Download verified build artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: QuickFinder-Windows-2.1.0
           path: release
