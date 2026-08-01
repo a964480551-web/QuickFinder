@@ -66,7 +66,7 @@ jobs:
           $hash = (Get-FileHash -Algorithm SHA256 $installer).Hash.ToLower()
           "$hash  QuickFinder_Setup_2.1.0.exe" | Set-Content -Encoding ascii release\installer-nsis\SHA256SUMS.txt
       - name: Upload build artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: QuickFinder-Windows-2.1.0
           path: |
